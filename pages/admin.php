@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,300&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="../styles/style.css" />
     <title>Classroom Scheduler</title>
 </head>
 <body>
@@ -16,7 +16,7 @@
                 <h1> Admin </h1>
             </div>
         </div>
-        <div class="right"> <img src="Logo.jpg" alt="Logo not found"></div>
+        <div class="right"> <img src="../logo/Logo.jpg" alt="Logo not found"></div>
     </nav>
 <div class="wrapper">
         <h1 class="heading">Schedule your batch.</h1>
